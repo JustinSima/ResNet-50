@@ -1,0 +1,8 @@
+name: resnet_env
+
+dependencies:
+  - python=3.10.5
+  - pillow=9.1.1
+  - pip:
+    - tensorflow=2.8.1
+    - tensorflow-addons=0.17.1
